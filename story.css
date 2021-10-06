@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(324deg, rgba(9,9,121,1) 25%, rgba(21,202,213,1) 100%);
+    text-align: center;   
+}
+.text{
+    font-family: 'Playball', cursive;
+    font-size: 27px;
+}
+.para{
+    font-family: 'Playball',cursive;
+    font-size: 23px;
+    
+}
